@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkaelin/advent-of-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkaelin/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/vkaelin/advent-of-code#readme",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
+}
